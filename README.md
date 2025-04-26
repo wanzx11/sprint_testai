@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 ✅ 一、请求格式说明（POST）
 URL: http://localhost:8080/api/ai/chat
 请求方式: POST
